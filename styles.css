@@ -1,0 +1,19 @@
+* {
+    font-size: 1em;
+    font-family: 'calibri', sans-serif;
+    font-style: normal;
+
+}
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top:auto
+
+}
+
+}
+.cap {
+    text-transform: none;
+}
